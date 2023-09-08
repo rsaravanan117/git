@@ -27,4 +27,4 @@ word1= input('Enter the word to replace :')
 word2= input('Enter the new word :') 
 print('new sentence is '+ sentence.replace(word1, word2)) 
 
-print(' Change 1 ')
+print(' Change from desk ')
